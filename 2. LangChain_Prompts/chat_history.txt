@@ -1,0 +1,35 @@
+Human: Jarvis, good morning.
+AI: Good morning. Your first class starts at 9 AM.
+
+Human: Did my model training finish?
+AI: Yes. Accuracy improved from 87.2% to 91.4%.
+
+Human: Nice. Push the logs to my project folder.
+AI: Done. I also cleaned duplicate checkpoint files.
+
+Human: Remind me to revise neural networks tonight.
+AI: Reminder scheduled for 9:30 PM.
+
+Human: What's the weather today?
+AI: Partly cloudy in Chennai, 33°C expected.
+
+Human: Open my AI research notes.
+AI: Opened 'Transformer_Notes_v4.pdf'.
+
+Human: Explain attention mechanism in one line.
+AI: Attention helps the model focus on important words while processing input.
+
+Human: That actually makes sense.
+AI: I try my best.
+
+Human: Any internship applications pending?
+AI: UBS AI Engineer Intern assessment deadline is tomorrow.
+
+Human: Don't let me forget that.
+AI: Already pinned to priority reminders.
+
+Human: Play something motivational.
+AI: Playing 'Lose Yourself'.
+
+Human: Jarvis, one day we'll build something huge.
+AI: At your current pace, that probability is high.
