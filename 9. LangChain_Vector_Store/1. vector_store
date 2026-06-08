@@ -1,0 +1,19 @@
+features
+
+can be stored in ram or disc
+similarity search
+indexing for fast search
+
+
+vector store vs vector database:
+vector store - lightweight library --> storage and retrival eg FAISS
+
+
+vector database - distributed, backup, acid, concurrancy, authenticity ...
+eg Milvus, Qdrant
+
+
+
+
+
+
